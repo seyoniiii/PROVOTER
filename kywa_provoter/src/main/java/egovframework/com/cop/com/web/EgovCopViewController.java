@@ -27,10 +27,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @Controller
 public class EgovCopViewController {
-	
-	 
-	 
-
     //@Resource(name = "EgovCommunityManageService")
     //private EgovCommunityManageService cmmntyService;
 
